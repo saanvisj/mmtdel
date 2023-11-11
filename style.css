@@ -1,0 +1,46 @@
+.background{
+  background: rgb(26, 17, 17);
+  background-size: 100% 250px;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to top,rgb(46, 46, 133),black);
+  margin-top:10px;
+  margin-left:10px;
+  margin-right:50px;
+  display: flex;
+  justify-content: center;
+}
+.content{
+  width:1200px;
+
+}
+.logo{
+  height: 36px;
+  width:113px;
+}
+.mainbox{
+   background-color: white;
+   width: 950px;
+   margin-top: 15px;
+   border-radius:10px;
+   box shadow:0px 1px 15px rgb(129, 104, 104);
+   display: flex;
+   justify-content : space-evenly;
+}
+.box1 span{
+  font: size 14px;
+  margin-left: 0px;
+  margin-right: 100px;
+   padding: 10px;
+   padding-top: 20px;
+   padding-inline-start: 20px;
+   display: flex;
+   align-items : center;
+   flex-direction: column;
+   
+
+}
+.fas{
+  font-size: 24px;
+  padding-inline-start: 20px;
+  font-style: ;
+}
